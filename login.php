@@ -6,7 +6,7 @@
     <link rel="stylesheet" type="text/css" href="/css/style.css">
    
 
-    <title>Document</title>
+    <title>Samuraytech</title>
 </head>
 <body> 
 <section class="forms-section">
